@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Singh Rathore</h1>
 <p align="cen"> <img src="https://komarev.com/ghpvc/?username=saksham-1304&label=Profile%20views&color=0e75b6&style=flat" alt="saksham-1304" /> </p>
 
-<p align="left"> <a href="https://github-trophies.vercel.app/?username=saksham-1304"></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=saksham-1304"</a> </p>
 
 <p align="left"> <a href="https://twitter.com/saksham_1304" target="blank"><img src="https://img.shields.io/twitter/follow/saksham_1304?logo=twitter&style=for-the-badge" alt="saksham_1304" /></a> </p>
 
