@@ -42,7 +42,3 @@
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=saksham_1304)](https://codeforces.com/profile/saksham_1304)
 
-<h2> 👨‍💻CodeChef Stats</h2>
-
-
-![CodeChef Stats](https://codechef-readme-stats.onrender.com/saksham_0413?v=1)
