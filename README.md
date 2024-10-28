@@ -30,9 +30,15 @@
 
 
 <h2 align="left">📊Github Stats</h2>
+
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-1304&show_icons=true&locale=en&layout=compact" alt="saksham-1304" /></p>
+  <tr>
+    <td width=60%><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saksham-1304&theme=github"  display=block width=100% height=auto  alt="1" ></td>
+  </tr>
+</table>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham-1304&show_icons=true&locale=en" alt="saksham-1304" /></p>
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-1304&" alt="saksham-1304" /></p>
 
