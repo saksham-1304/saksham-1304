@@ -29,6 +29,19 @@
 <a href="https://leetcode.com/u/saksham_0413/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="saksham_0413" height="100" width="100" /></a>
 
 
+## GSSoC'24 Badges 
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+</div>
+
+## Hacktoberfest '24
+[![An image of @saksham1304's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saksham1304)](https://holopin.io/@saksham1304)
+
 <h2 align="left">📊Github Stats</h2>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-1304&show_icons=true&locale=en&layout=compact" alt="saksham-1304" /></p>
