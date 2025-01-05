@@ -63,9 +63,6 @@
 <h2 align="left">📊Github Stats</h2>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-1304&show_icons=true&locale=en&layout=compact" alt="saksham-1304" /></p>
-  <tr>
-    <td width=60%><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saksham-1304&theme=github"  display=block width=100% height=auto  alt="1" ></td>
-  </tr>
 </table>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham-1304&show_icons=true&locale=en" alt="saksham-1304" /></p>
@@ -73,7 +70,22 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-1304&" alt="saksham-1304" /></p>
 
+
+<div align="center">
+  <a href="https://github.com/saksham-1304">
+    <!-- Stats -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saksham-1304&theme=2077" height="210em" alt="Stats" />
+    <!-- Top languages by commit -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saksham-1304&theme=2077" height="210em" alt="Top languages by commit" />
+    <!-- Top languages by repo -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saksham-1304&theme=2077" height="210em" alt="Top languages by repo" />
+    <!-- Histogram of Commits -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saksham-1304&theme=2077" height="210em" alt="Histogram of Commits" />
+    <!-- Graph of Commits -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saksham-1304&theme=2077" height="210em" alt="Graph of Commits" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  </a>
+</div>
 
 <h2 align="center">📈 Github Contributions 📈</h2>
 
