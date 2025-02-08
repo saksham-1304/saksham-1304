@@ -34,7 +34,7 @@
 <h2> 👨‍💻 Leetcode Badges</h2>
 <p align="center">
 
-<a href="https://leetcode.com/u/saksham_0413/" target="blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-1.gif" alt="saksham_0413" height="100" width="100" /></a>
+<a href="https://leetcode.com/u/saksham_0413/" target="blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-01.gif" alt="saksham_0413" height="100" width="100" /></a>
 <a href="https://leetcode.com/u/saksham_0413/" target="blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="saksham_0413" height="100" width="100" /></a>
 <a href="https://leetcode.com/u/saksham_0413/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="saksham_0413" height="100" width="100" /></a>
 <a href="https://leetcode.com/u/saksham_0413/" target="blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="saksham_0413" height="100" width="100" /></a>
