@@ -64,13 +64,18 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2 align="left">📊Github Stats</h2>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-1304&show_icons=true&locale=en&layout=compact" alt="saksham-1304" /></p>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saksham-1304&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham-1304&show_icons=true&locale=en" alt="saksham-1304" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-1304&theme=radical" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-1304&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-1304&" alt="saksham-1304" /></p>
 
 
 <div align="center">
@@ -104,4 +109,3 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-i6v9v54g2zvsjEt0
