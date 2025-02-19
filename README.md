@@ -99,21 +99,13 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saksham-1304&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h2> 👨‍💻CodeForces & CodeChef Stats</h2>
+<h2> 👨‍💻CodeForces Stats</h2>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%; height: 60vh;">
-  <a href="https://codeforces.com/profile/saksham_1304">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=saksham_1304" alt="Codeforces Stats" />
-  </a>
-  <a href="https://www.codechef.com/users/saksham_0413">
-    <img src="https://codechef-readme-stats.onrender.com/saksham_0413?v=1" alt="CodeChef Stats" />
-  </a>
+<div align="center">
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=saksham_1304)](https://codeforces.com/profile/saksham_1304)
+
 </div>
-
-  </a>
-</div>
-
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
