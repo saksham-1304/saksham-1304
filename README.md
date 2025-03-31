@@ -31,13 +31,10 @@
 
 </div>
 
-
-
-
-
 <h2> 👨‍💻 Leetcode Badges</h2>
 <p align="center">
 
+<a href="https://leetcode.com/u/saksham_0413/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202503.gif" alt="saksham_0413" height="100" width="100"/></a>
 <a href="https://leetcode.com/u/saksham_0413/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="saksham_0413" height="100" width="100"/></a>
 <a href="https://leetcode.com/u/saksham_0413/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="saksham_0413" height="100" width="100"/></a>
 <a href="https://leetcode.com/u/saksham_0413/" target="blank"><img align="center" src="https://leetcode.com/static/images/badges/2025/gif/2025-01.gif" alt="saksham_0413" height="100" width="100" /></a>
