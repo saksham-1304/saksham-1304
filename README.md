@@ -66,6 +66,16 @@
 [![An image of @saksham1304's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saksham1304)](https://holopin.io/@saksham1304)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<br>
+
+# 🚀 My Projects
+
+| **Project Name** | **Tech Stack** | **Description** | **Status** | **Live Demo** | **Repository** | **Project Data** |
+|------------------|----------------|-----------------|------------|---------------|----------------|------------------|
+| **Tic-Tac-Toe Game** ❌⭕ | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) <br> **HTML5** <br><br> [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) <br> **CSS3** <br><br> [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <br> **JavaScript** | A classic Tic-Tac-Toe game featuring a user-friendly interface with engaging gameplay and responsive design. | **Completed** ✅ | [Live Demo 🚀](https://saksham-1304.github.io/Tic-Tac-Toe-Game-Project/) | [GitHub Repo 💻](https://github.com/saksham-1304/Tic-Tac-Toe-Game-Project) | Last Updated: 17-Apr-24 ⏰ |
+| **Rock-Paper-Scissors Game** 🎮 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="20"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="20"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | A fun, interactive implementation of the classic Rock-Paper-Scissors game with engaging animations and responsive design. ✨ | **Completed** ✅ | [Live Demo 🚀](https://saksham-1304.github.io/Rock-Paper-Scissors-Game-Project/) | [GitHub Repo 💻](https://github.com/saksham-1304/Rock-Paper-Scissors-Game-Project) | Last Updated: 16-Apr-24 ⏰ |
+
 <h2 align="left">📊Github Stats</h2>
 
 <p align="center">
