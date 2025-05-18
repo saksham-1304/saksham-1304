@@ -31,7 +31,16 @@
 
 </div>
 
-<h2> 👨‍💻 Leetcode Badges</h2>
+<h2 align="center">🏢 Work Experience</h2>
+
+| **Organization** | **Position** | **Duration** | **Mode** | **Description** |
+|:----------------:|:------------:|:------------:|:--------:|:---------------:|
+| <a href="https://github.com/Zenith-MNNIT" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C510BAQERTt_h3qYCrg/company-logo_200_200/company-logo_200_200/0/1630572217325/zenith_the_programming_club_of_manit_logo?e=1753315200&v=beta&t=-GucS20PuW-rcu6FYl0ijqvgQruRgxkropOMX5qzQQY" alt="Zenith" width="40" height="40"/></a><br>**Zenith - The Programming Club of MANIT** | Member | May 2025 - Present<br>(1 month) | On-site | Active member contributing to programming initiatives and technical activities within the MANIT programming community. |
+| <a href="https://hacktoberfest.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/e838e6d3526495c83c195ed234acf109cb781f00/topics/hacktoberfest/hacktoberfest.png" alt="Hacktoberfest" width="40" height="40"/></a><br>**Hacktoberfest** | Open Source Contributor | Oct 2024<br>(1 month) | Remote | Participated in the global open source initiative by making contributions to various GitHub repositories. |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 👨‍💻 Leetcode Badges</h2>
 <p align="center">
 
 <a href="https://leetcode.com/u/saksham_0413/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202504.gif" alt="saksham_0413" height="100" width="100"/></a>
