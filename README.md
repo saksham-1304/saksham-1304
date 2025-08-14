@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **DSA And Web Development**
 
-- 🌱 Currently building **AI-Powered Second Brain** 
+- 🌱 Currently building **[AI-Powered Second Brain](https://github.com/saksham-1304/EchoBrain-AI-Powered-Second-Brain)** 
 
 - 📫 Reach me at **sakshamsinghrathore1304@gmail.com**
 
