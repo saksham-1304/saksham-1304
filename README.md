@@ -1,9 +1,5 @@
 -  **B.Tech CSE** @ MANIT Bhopal (CGPA: 8.90) | 2023-2027
 
-- 🌱 I’m currently learning **DSA And Web Development**
-
-- 🌱 Currently building **[AI-Powered Second Brain](https://github.com/saksham-1304/EchoBrain-AI-Powered-Second-Brain)** 
-
 - 📫 Reach me at **sakshamsinghrathore1304@gmail.com**
 
 <h3 align="center">🤝 Connect with me</h3>
