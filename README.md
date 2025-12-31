@@ -1,4 +1,4 @@
--  **B.Tech CSE** @ MANIT Bhopal (CGPA: 8.90) | 2023-2027
+-  **B.Tech CSE** @ MANIT Bhopal (SGPA: 9.29) | 2023-2027
 
 - 📫 Reach me at **sakshamsinghrathore1304@gmail.com**
 
