@@ -109,6 +109,112 @@
   </div>
 </details>
 
+<details>
+  <summary>🔀 View All Merged Pull Requests</summary>
+  
+  <h3 align="center">Open Source Contributions</h3>
+  
+  <table>
+    <thead>
+      <tr>
+        <th>PR #</th>
+        <th>Title</th>
+        <th>Repository</th>
+        <th>Status</th>
+        <th>Merged Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/sugarlabs/www-v2/pull/518">#518</a></td>
+        <td>fix(TryCardData): correct typo 'ost' to 'most' in description</td>
+        <td>sugarlabs/www-v2</td>
+        <td>✅ Merged</td>
+        <td>Nov 3, 2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ResilientApp/ResCanvas/pull/61">#61</a></td>
+        <td>feat: Add comprehensive keyboard shortcuts and VS Code-style Command Palette System</td>
+        <td>ResilientApp/ResCanvas</td>
+        <td>✅ Merged</td>
+        <td>Oct 30, 2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/sugarlabs/www-v2/pull/515">#515</a></td>
+        <td>fix(redirects): add /community-news redirect to /news/community-news</td>
+        <td>sugarlabs/www-v2</td>
+        <td>✅ Merged</td>
+        <td>Oct 31, 2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/20sinkypriya/Leetcoding/pull/24">#24</a></td>
+        <td>Add Two Numbers (Linked List)</td>
+        <td>20sinkypriya/Leetcoding</td>
+        <td>✅ Merged</td>
+        <td>Oct 28, 2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/20sinkypriya/Leetcoding/pull/23">#23</a></td>
+        <td>Longest Substring Without Repeating Characters</td>
+        <td>20sinkypriya/Leetcoding</td>
+        <td>✅ Merged</td>
+        <td>Oct 28, 2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ResilientApp/ResCanvas/pull/56">#56</a></td>
+        <td>feat: Comprehensive API Rate Limiting System</td>
+        <td>ResilientApp/ResCanvas</td>
+        <td>✅ Merged</td>
+        <td>Oct 28, 2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/commitra/react-verse/pull/123">#123</a></td>
+        <td>feat: add TaskFlow Board with React Flow integration</td>
+        <td>commitra/react-verse</td>
+        <td>✅ Merged</td>
+        <td>Oct 29, 2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/OpsiMate/opsimate-website/pull/65">#65</a></td>
+        <td>feat: add Slack icon to community buttons for improved brand recognition</td>
+        <td>OpsiMate/opsimate-website</td>
+        <td>✅ Merged</td>
+        <td>Oct 29, 2025</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/recodehive/awesome-github-profiles/pull/1156">#1156</a></td>
+        <td>Fixed UI For Dark-Mode: GitHub Foundation exam link visibility</td>
+        <td>recodehive/awesome-github-profiles</td>
+        <td>✅ Merged</td>
+        <td>Oct 30, 2024</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/recodehive/awesome-github-profiles/pull/1135">#1135</a></td>
+        <td>Bug In Mobile View: Toggle Mode Not Working</td>
+        <td>recodehive/awesome-github-profiles</td>
+        <td>✅ Merged</td>
+        <td>Oct 28, 2024</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/GSSoC24/Postman-Challenge/pull/2305">#2305</a></td>
+        <td>Update add-your-certificate.md</td>
+        <td>GSSoC24/Postman-Challenge</td>
+        <td>✅ Merged</td>
+        <td>Oct 25, 2024</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/recodehive/awesome-github-profiles/pull/1050">#1050</a></td>
+        <td>Fixed Twitter Logo Visibility In Both Modes</td>
+        <td>recodehive/awesome-github-profiles</td>
+        <td>✅ Merged</td>
+        <td>Oct 23, 2024</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <p align="center"><i>Total Merged PRs: 12 | Active Open Source Contributor 🚀</i></p>
+</details>
+
 
 
 
