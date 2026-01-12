@@ -101,7 +101,7 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   </div>
   
-  <h3 align="center">Hacktoberfest '24</h3>
+  <h3 align="center">Hacktoberfest '24 & 25 </h3>
   <div align="center">
     <a href="https://holopin.io/@saksham1304">
       <img src="https://holopin.me/saksham1304" alt="Holopin badges" />
