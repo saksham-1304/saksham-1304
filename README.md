@@ -1,4 +1,4 @@
-**B.Tech CSE** @ MANIT Bhopal (CGPA: 8.90) | 2023-2027
+**B.Tech CSE** @ MANIT Bhopal (CGPA: 9.29) | 2023-2027
 
 - 📫 Reach me at **sakshamsinghrathore1304@gmail.com**
 
@@ -178,7 +178,7 @@
 
 **📚 Academic Excellence**
 - **JEE 2023:** AIR 5180 (99.5650 percentile) - Top 0.43% of 1.2M+ candidates
-- **MANIT Bhopal:** Rank Opener with 8.90 CGPA
+- **MANIT Bhopal:** Rank Opener with 9.29 CGPA
 
 </div>
 
